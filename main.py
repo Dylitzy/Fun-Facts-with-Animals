@@ -20,6 +20,9 @@ def get_info(inpt):
     :param inpt: (possible) animal input
     :return: whether the input is an animal or not
     """
+    # url = f"https://www.itis.gov/ITISWebService/jsonservice/searchByCommonName?srchKey={inpt}"
+    url = "https://www.itis.gov/servlet/SingleRpt/SingleRpt"
+    response = requests.get(url)
     return False
 
 
