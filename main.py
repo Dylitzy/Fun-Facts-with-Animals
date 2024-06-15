@@ -1,4 +1,5 @@
 import requests
+import json
 from bs4 import BeautifulSoup
 
 """
@@ -20,9 +21,11 @@ def get_info(inpt):
     :param inpt: (possible) animal input
     :return: whether the input is an animal or not
     """
-    # url = f"https://www.itis.gov/ITISWebService/jsonservice/searchByCommonName?srchKey={inpt}"
-    url = "https://www.itis.gov/servlet/SingleRpt/SingleRpt"
-    response = requests.get(url)
+    with open("animals.txt") as animals:
+        for animal in animals:
+            stripped = animal.strip()  # don't think about this too much
+            if inpt.title() == stripped:
+                return True
     return False
 
 
@@ -42,10 +45,10 @@ def main():
     :return:
     """
     animal_name = input("Name any animal: ")
-    if get_info(input):
-        print(animal_name)
+    if get_info(animal_name):
+        print(f"{animal_name.title()} is an animal!")
     else:
-        print(f"Invalid input: {animal_name} is not a recognized animal name!")
+        print(f"Invalid input: {animal_name} is not a recognized animal name! Please check your spelling.")
 
 
 if __name__ == '__main__':
