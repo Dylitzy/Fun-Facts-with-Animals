@@ -147,7 +147,7 @@ Chipmunk
 Chow Chow
 Cichlid
 Clouded Leopard
-Clown Fish
+Clownfish
 Clumber Spaniel
 Coati
 Cobra
@@ -169,6 +169,7 @@ Crane
 Crested Penguin
 Crocodile
 Cross River Gorilla
+Crow
 Curly Coated Retriever
 Cuscus
 Cuttlefish
@@ -286,6 +287,7 @@ Hare
 Harrier
 Havanese
 Hawaiian Crow
+Hawk
 Hedgehog
 Hercules Beetle
 Hermit Crab
@@ -337,8 +339,6 @@ Kiwi
 Koala
 Komodo Dragon
 Kudu
-Labradoodle
-Labrador Retriever
 Ladybug
 Leaf-Tailed Gecko
 Lemming
@@ -411,8 +411,10 @@ Opossum
 Orang-utan
 Ostrich
 Otter
+Owl
 Oyster
 Pademelon
+Panda
 Panther
 Parrot
 Patas Monkey
@@ -425,6 +427,7 @@ Persian
 Pheasant
 Pied Tamarin
 Pig
+Pigeon
 Pika
 Pike
 Pink Fairy Armadillo
@@ -573,7 +576,6 @@ Walrus
 Warthog
 Wasp
 Water Buffalo
-Water Dragon
 Water Vole
 Weasel
 Welsh Corgi
