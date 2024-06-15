@@ -29,6 +29,7 @@ American Pit Bull Terrier
 American Staffordshire Terrier
 American Water Spaniel
 Amur Leopard
+Anaconda
 Anatolian Shepherd Dog
 Angelfish
 Ant
@@ -149,6 +150,7 @@ Clouded Leopard
 Clown Fish
 Clumber Spaniel
 Coati
+Cobra
 Cockroach
 Collared Peccary
 Collie
@@ -327,6 +329,7 @@ Kakapo
 Kangaroo
 Keel Billed Toucan
 Killer Whale
+King Cobra
 King Crab
 King Penguin
 Kingfisher
@@ -445,6 +448,7 @@ Purple Emperor
 Puss Moth
 Pygmy Hippopotamus
 Pygmy Marmoset
+Python
 Quail
 Quetzal
 Quokka
@@ -474,6 +478,7 @@ Russian Blue
 Sabre-Toothed Tiger
 Saint Bernard
 Salamander
+Salmon
 Sand Lizard
 Saola
 Scimitar-horned Oryx
@@ -489,6 +494,7 @@ Sea Urchin
 Seahorse
 Seal
 Serval
+Shark
 Sheep
 Shih Tzu
 Shrimp
@@ -553,6 +559,7 @@ Toucan
 Tree Frog
 Tropicbird
 Tuatara
+Tuna
 Turkey
 Turkish Angora
 Uakari
