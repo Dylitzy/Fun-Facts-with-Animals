@@ -1,46 +1,70 @@
 Aardvark
+Aardwolf
 Abyssinian
+Addax
 Adelie Penguin
 African Bush Elephant
 African Civet
 African Clawed Frog
 African Forest Elephant
+African Gray Parrot
 African Palm Civet
 African Penguin
 African Tree Toad
+Agouti
 Albatross
+Albertosaurus
 Aldabra Giant Tortoise
 Alligator
+Allosaurus
+Alpaca
 Amur Leopard
 Anaconda
 Angelfish
 Anglerfish
+Ankylosaurus
+Anole
 Ant
 Anteater
 Antelope
+Apatosaurus
+Arapaima
+Archaeopteryx
 Arctic Fox
 Arctic Hare
 Arctic Wolf
 Armadillo
+Armadillo Girdled Lizard
 Asian Elephant
 Asian Giant Hornet
 Asian Palm Civet
+Asian Water Monitor
 Asiatic Black Bear
+Asiatic Lion
+Aurochs
 Australian Mist
 Avocet
+Axanthic Ball Python
 Axolotl
 Aye-aye
+Babirusa
 Baboon
 Bactrian Camel
 Badger
 Bald Eagle
 Balinese
+Balinese Tiger
+Bamboo Shark
+Banded Krait
 Banded Palm Civet
 Bandicoot
 Barb
+Barbary Macaque
 Barn Owl
 Barnacle
+Barnacle Goose
 Barracuda
+Baryonyx
 Basilisk
 Basking Shark
 Bat
@@ -49,29 +73,46 @@ Bearded Dragon
 Beaver
 Bee
 Beetle
+Beisa Oryx
 Beluga Whale
 Bengal Tiger
+Betta Fish
+Bichir
+Bilby
 Binturong
 Bird
 Birds Of Paradise
 Bison
+Black Mamba
 Black Rhinoceros
 Black Widow Spider
+Black Wildebeest
 Black-footed Ferret
+Blobfish
 Blue Jay
+Blue Poison Dart Frog
 Blue Whale
 Bobcat
 Bombay
 Bongo
+Bongo Antelope
 Bonobo
+Bontebok
 Booby
+Bornean Bay Cat
 Bornean Orangutan
 Borneo Elephant
+Boto
 Bottlenose Dolphin
+Brachiosaurus
+Brazilian Rainbow Boa
+Brookesia Micra
 Brown Bear
+Brown Hyena
 Budgerigar
 Buffalo
 Bull Shark
+Bull Terrier
 Bullfrog
 Bumble Bee
 Burmese
@@ -79,59 +120,88 @@ Burrowing Frog
 Butterfly
 Butterfly Fish
 Caiman
+Caiman Crocodile
 Caiman Lizard
+California Condor
 Camel
 Canary
+Capuchin Monkey
 Capybara
 Caracal
+Carcharodon Megalodon
+Caribou
+Carnotaurus
+Carpet Python
+Cassiopeia
 Cassowary
 Cat
 Caterpillar
 Catfish
+Cave Fish
+Celestial Pearl Danio
 Centipede
+Ceratosaurus
 Chachalaca
+Chambered Nautilus
 Chameleon
 Chamois
 Cheetah
+Chevrotain
 Chicken
 Chimpanzee
 Chinchilla
 Chinchilla Rat
+Chinese Alligator
+Chinese Water Deer
 Chinook
 Chinstrap Penguin
 Chipmunk
+Chital
 Cichlid
 Clouded Leopard
 Clownfish
 Coati
+Coati Mundi
 Cobra
 Cockatoo
 Cockroach
 Coelacanth
 Collared Peccary
 Common Buzzard
+Common Eland
 Common Frog
 Common Loon
+Common Merganser
 Common Toad
+Copepod
 Coral
+Cottonmouth
 Cottontop Tamarin
 Cougar
 Cow
 Coyote
 Crab
+Crab Spider
 Crab-Eating Macaque
 Crane
 Crested Penguin
+Crimson Rosella
 Crocodile
+Crocodile Monitor
 Cross River Gorilla
 Crow
 Cuscus
 Cuttlefish
 Darwin's Frog
 Deer
+Deinonychus
 Desert Tortoise
+Dhole
+Dingiso
 Dingo
+Diplodocus
 Discus
+Doberman Pinscher
 Dodo
 Dog
 Dolphin
@@ -139,92 +209,129 @@ Donkey
 Dormouse
 Dragonfly
 Duck
+Dugite
 Dugong
 Dunker
 Dusky Dolphin
+Dusky Shark
 Dwarf Crocodile
 Eagle
 Earwig
+Eastern Box Turtle
 Eastern Gorilla
 Eastern Lowland Gorilla
 Echidna
 Edible Frog
+Edmontosaurus
 Eel
 Egyptian Mau
 Electric Eel
+Electric Ray
 Elephant
+Elephant Fish
 Elephant Seal
 Elephant Shrew
 Elk
 Emperor Penguin
 Emperor Tamarin
 Emu
+Epaulette Shark
+Eurasian Lynx
+European Eel
 Falcon
+Fallow Deer
 Fennec Fox
 Ferret
 Fin Whale
 Fire-Bellied Toad
 Fish
 Fishing Cat
+Fishing Spider
 Flamingo
+Flatworm
 Flounder
 Fly
+Flying Fox
 Flying Squirrel
 Fossa
+Fossil Cat
+Four-Toed Hedgehog
 Fox
 Frigatebird
+Frill-Necked Lizard
 Frilled Lizard
 Frog
 Fur Seal
 Galapagos Penguin
 Galapagos Tortoise
+Gallimimus
 Gar
+Gaur
 Gazelle
 Gecko
 Gentoo Penguin
 Geoffroys Tamarin
 Gerbil
 Gharial
+Gharial Crocodile
 Giant African Land Snail
+Giant Anteater
 Giant Clam
+Giant Isopod
 Giant Panda Bear
 Giant Squid
 Gibbon
+Gila
 Gila Monster
 Giraffe
+Giraffe Weevil
 Glass Lizard
 Glow Worm
 Gnu
 Goat
+Goblin Shark
 Golden Lion Tamarin
 Golden Oriole
+Golden Pheasant
 Goose
 Gopher
 Gorilla
+Grass Carp
 Grasshopper
 Great White Shark
 Green Bee-Eater
 Grey Mouse Lemur
 Grey Reef Shark
 Grey Seal
+Grivet
 Grizzly Bear
 Grouse
+Guereza Colobus
 Guinea Fowl
 Guinea Pig
 Guppy
+Gurnard
+Hadrosaurus
+Hagfish
+Hairy Frog
 Hammerhead Shark
+Hammerkop
 Hamster
 Hare
+Harlequin Bug
 Harrier
 Hawaiian Crow
 Hawk
 Hedgehog
 Hercules Beetle
+Hercules Moth
 Hermit Crab
 Heron
 Highland Cattle
 Himalayan
 Hippopotamus
+Hispaniolan Solenodon
+Hoiho
 Honey Badger
 Honey Bee
 Honeyguide
@@ -243,6 +350,7 @@ Hyena
 Ibex
 Ibis
 Iguana
+Iguanodon
 Impala
 Indian Elephant
 Indian Palm Squirrel
@@ -260,6 +368,7 @@ Jellyfish
 Kakapo
 Kangaroo
 Keel Billed Toucan
+Kentrosaurus
 Killer Whale
 King Cobra
 King Crab
@@ -294,6 +403,7 @@ Macaroni Penguin
 Macaw
 Magellanic Penguin
 Magpie
+Maiasaura
 Malayan Civet
 Malayan Tiger
 Manatee
@@ -307,6 +417,7 @@ Marsh Frog
 Masked Palm Civet
 Mayfly
 Meerkat
+Microraptor
 Millipede
 Minke Whale
 Mole
@@ -342,12 +453,15 @@ Opossum
 Orangutan
 Ostrich
 Otter
+Oviraptor
 Owl
 Oyster
+Pachycephalosaurus
 Pademelon
 Panda
 Pangolin
 Panther
+Parasaurolophus
 Parrot
 Patas Monkey
 Peacock
@@ -374,6 +488,8 @@ Possum
 Prawn
 Praying Mantis
 Proboscis Monkey
+Pteranodon
+Pterosaur
 Pufferfish
 Puffin
 Puma
@@ -410,6 +526,7 @@ Salamander
 Salmon
 Sand Lizard
 Saola
+Sauroposeidon
 Scimitar-horned Oryx
 Scorpion
 Scorpion Fish
@@ -443,6 +560,7 @@ Sparrow
 Spectacled Bear
 Sperm Whale
 Spider Monkey
+Spinosaurus
 Spixs Macaw
 Sponge
 Squid
@@ -451,17 +569,20 @@ Squirrel Monkey
 Sri Lankan Elephant
 Stag Beetle
 Starfish
+Stegosaurus
 Stellers Sea Cow
 Stick Insect
 Stingray
 Stoat
 Striped Rocket Frog
+Styracosaurus
 Sumatran Elephant
 Sumatran Orangutan
 Sumatran Rhinoceros
 Sumatran Tiger
 Sun Bear
 Swan
+T-Rex
 Tang
 Tapanuli Orangutan
 Tapir
@@ -480,15 +601,19 @@ Tortoise
 Toucan
 Tree Frog
 Tree Kangaroo
+Triceratops
+Troodon
 Tropicbird
 Tuatara
 Tuna
 Turkey
+Turtle
 Uakari
 Uguisu
 Umbrellabird
 Vampire Bat
 Vaquita
+Velociraptor
 Vervet Monkey
 Vulture
 Wallaby
@@ -502,8 +627,8 @@ Western Gorilla
 Western Lowland Gorilla
 Whale Shark
 White Rhinoceros
-White-tailed Deer
 White Tiger
+White-tailed Deer
 Wild Boar
 Wildebeest
 Wolf
